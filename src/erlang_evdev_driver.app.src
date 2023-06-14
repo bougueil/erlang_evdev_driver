@@ -11,6 +11,6 @@
   {modules, []},
 
   {maintainers, ["Lauri Moisio"]},
-  {licenses, [" Creative Commons Attribution 4.0 International License"]},
+  {licenses, ["Creative Commons Attribution 4.0 International"]},
   {links, ["http://www.arv.io/articles/raw-keyboard-input-erlang-linux"]}
  ]}.
