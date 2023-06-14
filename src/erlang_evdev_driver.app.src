@@ -1,0 +1,16 @@
+{application, erlang_evdev_driver,
+ [{description, "Erlang driver for capturing input from evdev devices"},
+  {vsn, "0.0.0"},
+  {registered, []},
+  {mod, {erlang_evdev_driver, []}},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, ["Lauri Moisio"]},
+  {licenses, [" Creative Commons Attribution 4.0 International License"]},
+  {links, ["http://www.arv.io/articles/raw-keyboard-input-erlang-linux"]}
+ ]}.
