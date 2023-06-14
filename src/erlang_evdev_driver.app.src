@@ -1,6 +1,6 @@
 {application, erlang_evdev_driver,
  [{description, "Erlang driver for capturing input from evdev devices"},
-  {vsn, "0.0.0"},
+  {vsn, "0.1.0"},
   {registered, []},
   {mod, {erlang_evdev_driver, []}},
   {applications,
